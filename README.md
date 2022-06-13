@@ -17,7 +17,7 @@ During the last 8 months I have been developing my skills as a web developer, cr
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 
@@ -30,7 +30,7 @@ During the last 8 months I have been developing my skills as a web developer, cr
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
   
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 ### Desing  
 <div align="center">  
@@ -40,7 +40,7 @@ During the last 8 months I have been developing my skills as a web developer, cr
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-<table></td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
   
 
 <br/>  
