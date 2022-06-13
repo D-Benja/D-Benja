@@ -29,6 +29,8 @@ During the last 8 months I have been developing my skills as a web developer, cr
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
+  
+<table><tr><td valign="top" width="50%">
 
 ### Desing  
 <div align="center">  
