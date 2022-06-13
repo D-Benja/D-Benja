@@ -45,10 +45,6 @@ During the last 8 months I have been developing my skills as a web developer, cr
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
 <br/>  
 
 
