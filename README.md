@@ -15,7 +15,7 @@ During the last 8 months I have been performing my skills as a web developer, cr
 <br/>
 
 <div>
-  <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="290" width="400" />
+  <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="270" width="370" />
 <div>
   
 <br/>
@@ -61,8 +61,8 @@ Currently i'm learning/improving:
 <br/>  
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=D-Benja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Benja&layout=compact&show_icons=true&hide_border=true" style="" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=D-Benja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Benja&layout=compact&show_icons=true&hide_border=true" style="" />
   </div>
 </div>
 
