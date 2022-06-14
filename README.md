@@ -1,3 +1,9 @@
+<style>
+  td, th {
+     border: none!important;
+  }
+</style>
+
 # <div align="center">Hi there! I'm Benjamin👋🏻</div>  
   
 
