@@ -16,13 +16,10 @@ During the last 8 months I have been performing my skills as a web developer, cr
 
 <table class="images" width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
-        <td width="33%" style="border:0px; width:33.33%">
+        <td width="33%" style="border:0px; width:50">
             <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" />
         </td>
-        <td width="33%" style="border:0px; width:33.33%">
-            <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" />
-        </td>
-        <td width="33%" style="border:0px; width:33.33%">
+        <td width="33%" style="border:0px; width:50">
             <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" />
         </td>
     </tr>
