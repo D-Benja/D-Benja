@@ -14,24 +14,31 @@ During the last 8 months I have been performing my skills as a web developer, cr
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
 
-## <div align="center">What i'm focusing on 👨‍💻</div>
-<div>
-  <div width=50%>
-    <div>
-      Currently i'm learning/improving:
-      <br/>
-        - React skills(Redux, Hooks, Clean code)
-      <br/>
-        - Next.js
-      <br/>
-        - Node.js and Express
-     </div>
-  </div>
-  <div width=50%>
-    <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="270" width="270" />
-   </div>
-</div>   
+## <div align="center">What i'm focusing on 👨‍💻</div>  
+  
+
+Currently i'm learning/improving:  
+  
+
+- React skills(Redux, Hooks, Clean code)  
+  
+
+- Next.js  
+  
+
+- Node.js and Express  
+
+
+</td><td valign="top" width="50%">
+
+<div align="right">
+<img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="270" width="270" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -43,8 +50,7 @@ During the last 8 months I have been performing my skills as a web developer, cr
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
