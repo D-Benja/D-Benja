@@ -12,35 +12,31 @@ Based in Cordoba, Argentina 🌍.
 During the last 8 months I have been performing my skills as a web developer, creating modern and user friendly projects. I love to immerse myself in the new things what I'm learning. Looking for quality, innovation for the construction of useful products.  
   
 
-<br/>  
+<br/>
 
-<table><tr><td valign="top" width="50%">
-
-## <div align="center">What i'm focusing on 👨‍💻</div>  
+<div>
+  <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="290" width="400" />
+<div>
   
+<br/>
+  
+## ⠀What i'm focusing on 👨‍💻
+
 
 Currently i'm learning/improving:  
   
 
-- React skills(Redux, Hooks, Clean code)  
+- React skills (Redux, Hooks, Clean code)  
   
 
 - Next.js  
   
 
-- Node.js and Express  
+- Node.js and Express
+  
 
+<br/>
 
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="270" width="270" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 ## ⠀Languages and tools 🛠️  
   
@@ -63,16 +59,15 @@ Currently i'm learning/improving:
   
 
 <br/>  
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=D-Benja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Benja&layout=compact&show_icons=true&hide_border=true" style="" />
+  </div>
+</div>
 
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D-Benja&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Benja&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
 
 <br/>  
 
@@ -92,6 +87,3 @@ Currently i'm learning/improving:
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
