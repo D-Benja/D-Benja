@@ -19,8 +19,11 @@ During the last 8 months I have been performing my skills as a web developer, cr
     ## <div align="center">What i'm focusing on 👨‍💻</div>
     <div>
       Currently i'm learning/improving:
+      <br/>
         - React skills(Redux, Hooks, Clean code)
+      <br/>
         - Next.js
+      <br/>
         - Node.js and Express
      </div>
   </div>
