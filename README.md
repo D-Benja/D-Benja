@@ -16,7 +16,7 @@ During the last 8 months I have been performing my skills as a web developer, cr
 
 <div>
   <div width=50%>
-    ## <div align="center">What i'm focusing on 👨‍💻</div>  
+    <div align="center">What i'm focusing on 👨‍💻</div>  
   
 
     Currently i'm learning/improving:  
