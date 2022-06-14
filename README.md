@@ -14,7 +14,7 @@ During the last 8 months I have been performing my skills as a web developer, cr
 
 <br/>  
 
-<table><tr><td valign="top" width="50%" style="border:0px">
+<table><tr><td valign="top" width="50%" includeBottomBorder=false>
 
 ## <div align="center">What i'm focusing on 👨‍💻</div>  
   
