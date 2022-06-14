@@ -1,9 +1,3 @@
-<style>
-  td, th {
-     border: none!important;
-  }
-</style>
-
 # <div align="center">Hi there! I'm Benjamin👋🏻</div>  
   
 
@@ -20,7 +14,7 @@ During the last 8 months I have been performing my skills as a web developer, cr
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" border=none>
 
 ## <div align="center">What i'm focusing on 👨‍💻</div>  
   
