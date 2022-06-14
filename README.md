@@ -14,31 +14,26 @@ During the last 8 months I have been performing my skills as a web developer, cr
 
 <br/>  
 
-<table><tr><td valign="top" width="50%" includeBottomBorder=false>
-
-## <div align="center">What i'm focusing on 👨‍💻</div>  
+<div>
+  <div width=50%>
+    ## <div align="center">What i'm focusing on 👨‍💻</div>  
   
 
-Currently i'm learning/improving:  
-  
-
-- React skills(Redux, Hooks, Clean code)  
-  
-
-- Next.js  
-  
-
-- Node.js and Express  
+    Currently i'm learning/improving:  
 
 
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="270" width="270" />
-</div>  
+    - React skills(Redux, Hooks, Clean code)  
 
 
-</td></tr></table>   
+    - Next.js  
+
+
+    - Node.js and Express  
+  </div>
+  <div width=50%>
+    <img src="https://www.gurutechnolabs.com/wp-content/uploads/2020/10/web-app-development-gurutechnolabs.png" align="right" height="270" width="270" />
+   </div>
+</div>   
 
 <br/>  
 
