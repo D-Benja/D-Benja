@@ -62,8 +62,8 @@ Currently i'm learning/improving:
 <br/>  
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img width="180em" src="https://github-readme-stats.vercel.app/api?username=D-Benja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Benja&layout=compact&show_icons=true&hide_border=true" style="" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-Benja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Benja&layout=compact&show_icons=true&hide_border=true" style="" />
   </div>
 </div>
 
