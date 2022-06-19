@@ -3,13 +3,13 @@
 
 <br/>  
 
-Im a Front-end Developer with some UX/UI Desing skill's looking to solve real world problems.   
+Im a Full-Stack Web Developer with some UX/UI Desing skill's looking to solve real world problems.   
   
 
 Based in Cordoba, Argentina 🌍.  
   
 
-During the last 8 months I have been performing my skills as a web developer, creating modern and user friendly projects. I love to immerse myself in the new things what I'm learning. Looking for quality, innovation for the construction of useful products.  
+During the last 8 months I have been performing my skills as a full-stack web developer but although more focused on the front-end, creating modern and user friendly projects. I love to immerse myself in the new things what I'm learning. Looking for quality, innovation for the construction of useful products.  
   
 
 <br/>
@@ -47,7 +47,9 @@ Currently i'm learning/improving:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+ <img style="margin: 10px" src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png" alt="Express.js" height="50" />
+ <img style="margin: 10px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/184300iC067819AE50300F4?v=v2" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
