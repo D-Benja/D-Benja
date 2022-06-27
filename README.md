@@ -9,7 +9,7 @@ Im a Full-Stack Web Developer with some UX/UI Desing skill's looking to solve re
 Based in Cordoba, Argentina 🌍.  
   
 
-During the last 8 months I have been performing my skills as a full-stack web developer but although more focused on the front-end, creating modern and user friendly projects. I love to immerse myself in the new things what I'm learning. Looking for quality, innovation for the construction of useful products.  
+During the last 8 months I have been performing my skills as a full-stack web developer but although more focused on the front-end, creating modern and user friendly projects. I love to immerse myself in the new things what I'm learning.
   
 
 <br/>
