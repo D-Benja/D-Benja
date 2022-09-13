@@ -26,7 +26,7 @@ During the last 8 months I have been performing my skills as a full-stack web de
 Currently i'm learning/improving:  
   
 
-- React skills (Redux, Hooks, Clean code)  
+- React skills (Redux, Hooks, Clean Architecture)  
   
 
 - Next.js  
